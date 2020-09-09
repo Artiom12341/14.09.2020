@@ -1,0 +1,7 @@
+print("CV")
+print("Nume_Prenume:Brînza Artiom")
+print ("Varsta:16 ani")
+print ("Localitate:mun.Balti")
+print("e-mail:brinzartiom@gmail.com")
+print("Numar de contact:069510905")
+print("Despre mine:Sunt elevul cl.10.A profil real . Punctele mele fortesunt in domeniul stiintelor exacte asa ca Matematica ,Fizica ,Chimia si Biologia.")
